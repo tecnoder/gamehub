@@ -16,11 +16,11 @@ GameHub is a modern web platform for playing classic board and card games with c
 
 Here are some screenshots of the GameHub platform:
 
-![GameHub Screenshot 1](/public/screenshots/Screenshot%202025-03-11%20at%2010.03.59%20AM.png)
-![GameHub Screenshot 2](/public/screenshots/Screenshot%202025-03-11%20at%2010.04.12%20AM.png)
-![GameHub Screenshot 3](/public/screenshots/Screenshot%202025-03-11%20at%2010.04.39%20AM.png)
-![GameHub Screenshot 4](/public/screenshots/Screenshot%202025-03-11%20at%2010.05.10%20AM.png)
-![GameHub Screenshot 5](/public/screenshots/Screenshot%202025-03-11%20at%2010.05.31%20AM.png)
+![GameHub Screenshot 1](/public/screenshots/Screenshot%202025-03-11%20at%2010.03.59%E2%80%AFAM.png)
+![GameHub Screenshot 2](/public/screenshots/Screenshot%202025-03-11%20at%2010.04.12%E2%80%AFAM.png)
+![GameHub Screenshot 3](/public/screenshots/Screenshot%202025-03-11%20at%2010.04.39%E2%80%AFAM.png)
+![GameHub Screenshot 4](/public/screenshots/Screenshot%202025-03-11%20at%2010.05.10%E2%80%AFAM.png)
+![GameHub Screenshot 5](/public/screenshots/Screenshot%202025-03-11%20at%2010.05.31%E2%80%AFAM.png)
 
 ## Tech Stack
 
